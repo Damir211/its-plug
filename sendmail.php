@@ -10,9 +10,9 @@
 	$mail->setLanguage('ru', 'phpmailer/language/');
 	$mail->IsHTML(true);
 
-	$mail->setFrom('ITS@site.ru', 'Сайт заглушка');
+	$mail->setFrom('noreply@itstrade24.ru', 'Сайт заглушка');
 
-	$mail->addAddress('k.damir021@gmail.com');
+	$mail->addAddress('post@itstrade24.ru');
 
 	$mail->Subject = 'Форма обратной связи';
 
