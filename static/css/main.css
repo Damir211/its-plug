@@ -756,13 +756,14 @@ a {
 }
 .telegram__tel {
   font-weight: 350;
-  font-size: 1.25vw;
+  font-size: 1.75vw;
   line-height: 140%;
   color: #626AF5;
+  font-weight: 700;
 }
 @media screen and (max-width: 768px) {
   .telegram__tel {
-    font-size: 6.667vw;
+    font-size: 8vw;
   }
 }
 
@@ -1138,8 +1139,8 @@ a {
 }
 .popup__img img {
   display: block;
-  width: 14.74vw;
-  height: 14.74vw;
+  width: 13.021vw;
+  height: 13.021vw;
 }
 @media screen and (max-width: 768px) {
   .popup__img img {
